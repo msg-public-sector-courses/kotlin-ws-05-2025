@@ -1,1 +1,2 @@
-# Kotlin Workshop 05/2025
+# kotlin-course
+Hier kommt noch eine aussagekräftige README hin.
